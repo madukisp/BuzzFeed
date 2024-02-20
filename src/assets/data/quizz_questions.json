@@ -1,0 +1,211 @@
+{
+  "title": "Teste de Personalidade",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual atividade você mais gosta de fazer no seu tempo livre?",
+      "options": [
+        {"id": 2, "name": "Estudar o cosmos e tocar guitarra", "alias": "Brian"},
+        {"id": 3, "name": "Correr e manter um estilo de vida ativo", "alias": "Roger"},
+        {"id": 4, "name": "Ficar quieto, desfrutar da paz e tranquilidade", "alias": "John"},
+        {"id": 1, "name": "Escrever e compor músicas", "alias": "Freddie"}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Qual descrição melhor se encaixa na sua personalidade?",
+      "options": [
+        {"id": 4, "name": "Reservado e pensativo", "alias": "John"},
+        {"id": 1, "name": "Extravagante e performático", "alias": "Freddie"},
+        {"id": 3, "name": "Energético e brincalhão", "alias": "Roger"},
+        {"id": 2, "name": "Intelectual e criativo", "alias": "Brian"}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Como você descreveria sua abordagem para resolver problemas?",
+      "options": [
+        {"id": 3, "name": "Com decisão e ação rápida", "alias": "Roger"},
+        {"id": 2, "name": "Com lógica e análise detalhada", "alias": "Brian"},
+        {"id": 4, "name": "Com calma e reflexão interna", "alias": "John"},
+        {"id": 1, "name": "Com criatividade e inovação", "alias": "Freddie"}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual gênero musical além do rock mais te interessa?",
+      "options": [
+        {"id": 1, "name": "Ópera e música clássica", "alias": "Freddie"},
+        {"id": 3, "name": "Jazz e blues", "alias": "Roger"},
+        {"id": 4, "name": "Eletrônica e música ambiente", "alias": "John"},
+        {"id": 2, "name": "Folk e música acústica", "alias": "Brian"}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Se você pudesse escolher um hobby, qual seria?",
+      "options": [
+        {"id": 2, "name": "Astronomia e fotografia", "alias": "Brian"},
+        {"id": 4, "name": "Eletrônica e carpintaria", "alias": "John"},
+        {"id": 3, "name": "Pilotar e mecânica", "alias": "Roger"},
+        {"id": 1, "name": "Coleção de arte e antiguidades", "alias": "Freddie"}
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Qual é o seu papel em um grupo de amigos?",
+      "options": [
+        {"id": 3, "name": "O animador e alma da festa", "alias": "Roger"},
+        {"id": 4, "name": "O ouvinte e conselheiro", "alias": "John"},
+        {"id": 2, "name": "O pensador e planejador", "alias": "Brian"},
+        {"id": 1, "name": "O líder natural e centro das atenções", "alias": "Freddie"}
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Como você prefere passar suas férias?",
+      "options": [
+        {"id": 4, "name": "Relaxando em casa ou na natureza", "alias": "John"},
+        {"id": 1, "name": "Explorando novas culturas e culinárias", "alias": "Freddie"},
+        {"id": 2, "name": "Visitando museus e locais históricos", "alias": "Brian"},
+        {"id": 3, "name": "Em aventuras ao ar livre e esportes", "alias": "Roger"}
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Qual desses filmes você preferiria assistir?",
+      "options": [
+        {"id": 2, "name": "Um documentário científico ou sobre espaço", "alias": "Brian"},
+        {"id": 1, "name": "Um drama biográfico sobre um artista", "alias": "Freddie"},
+        {"id": 4, "name": "Um drama silencioso ou filme indie", "alias": "John"},
+        {"id": 3, "name": "Um filme de ação ou aventura", "alias": "Roger"}
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Que tipo de livro você mais gosta de ler?",
+      "options": [
+        {"id": 4, "name": "Ficção científica ou fantasia", "alias": "John"},
+        {"id": 3, "name": "Romances de aventura ou mistério", "alias": "Roger"},
+        {"id": 2, "name": "Livros de ciência e astronomia", "alias": "Brian"},
+        {"id": 1, "name": "Biografias de músicos e artistas", "alias": "Freddie"}
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Em uma noite típica, o que você preferiria fazer?",
+      "options": [
+        {"id": 3, "name": "Sair com amigos para um bar ou festa", "alias": "Roger"},
+        {"id": 2, "name": "Observar as estrelas ou ler um livro", "alias": "Brian"},
+        {"id": 4, "name": "Ficar em casa, talvez trabalhando em um hobby", "alias": "John"},
+        {"id": 1, "name": "Ir a um show ou evento cultural", "alias": "Freddie"}
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Como você descreveria seu estilo de moda?",
+      "options": [
+        {"id": 2, "name": "Clássico, com um toque peculiar", "alias": "Brian"},
+        {"id": 1, "name": "Ousado e teatral", "alias": "Freddie"},
+        {"id": 4, "name": "Simples e discreto", "alias": "John"},
+        {"id": 3, "name": "Casual, mas sempre na moda", "alias": "Roger"}
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Qual é a sua bebida preferida?",
+      "options": [
+        {"id": 1, "name": "Champanhe ou um coquetel sofisticado", "alias": "Freddie"},
+        {"id": 4, "name": "Água, chá, ou um suco natural", "alias": "John"},
+        {"id": 2, "name": "Um bom vinho ou cerveja artesanal", "alias": "Brian"},
+        {"id": 3, "name": "Cerveja ou um drink clássico", "alias": "Roger"}
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Qual é o seu tipo de humor?",
+      "options": [
+        {"id": 3, "name": "Brincalhão e direto", "alias": "Roger"},
+        {"id": 4, "name": "Seco e sutil", "alias": "John"},
+        {"id": 2, "name": "Inteligente e às vezes sarcástico", "alias": "Brian"},
+        {"id": 1, "name": "Irônico e teatral", "alias": "Freddie"}
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Que tipo de festa você prefere?",
+      "options": [
+        {"id": 2, "name": "Um encontro íntimo com conversas profundas", "alias": "Brian"},
+        {"id": 1, "name": "Uma grande festa temática", "alias": "Freddie"},
+        {"id": 4, "name": "Um pequeno encontro relaxado com amigos próximos", "alias": "John"},
+        {"id": 3, "name": "Uma festa animada com muita dança", "alias": "Roger"}
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Qual dessas causas você mais apoia?",
+      "options": [
+        {"id": 2, "name": "Conservação ambiental e educação", "alias": "Brian"},
+        {"id": 3, "name": "Ajuda humanitária e caridade", "alias": "Roger"},
+        {"id": 4, "name": "Educação e pesquisa científica", "alias": "John"},
+        {"id": 1, "name": "Direitos humanos e igualdade", "alias": "Freddie"}
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Como você se sente em relação a falar em público?",
+      "options": [
+        {"id": 4, "name": "Prefiro evitar se possível", "alias": "John"},
+        {"id": 1, "name": "Adoro e me sinto energizado", "alias": "Freddie"},
+        {"id": 2, "name": "Confortável, desde que seja sobre um tópico de interesse", "alias": "Brian"},
+        {"id": 3, "name": "Um pouco nervoso, mas me saio bem", "alias": "Roger"}
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Qual instrumento musical você gostaria de dominar?",
+      "options": [
+        {"id": 3, "name": "Bateria - manter o ritmo e a energia", "alias": "Roger"},
+        {"id": 1, "name": "Vocal - ser um frontman carismático", "alias": "Freddie"},
+        {"id": 4, "name": "Baixo - ser a espinha dorsal discreta da banda", "alias": "John"},
+        {"id": 2, "name": "Guitarra - criar solos épicos", "alias": "Brian"}
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Que tipo de esporte você prefere?",
+      "options": [
+        {"id": 2, "name": "Esportes que requerem estratégia e paciência", "alias": "Brian"},
+        {"id": 1, "name": "Nenhum, prefiro artes cênicas", "alias": "Freddie"},
+        {"id": 4, "name": "Esportes tranquilos ou nenhum", "alias": "John"},
+        {"id": 3, "name": "Esportes rápidos e competitivos", "alias": "Roger"}
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Como você lida com conflitos?",
+      "options": [
+        {"id": 4, "name": "Evito conflitos sempre que possível", "alias": "John"},
+        {"id": 2, "name": "Com discussão lógica e argumentos", "alias": "Brian"},
+        {"id": 1, "name": "De frente, com muita paixão", "alias": "Freddie"},
+        {"id": 3, "name": "Tento encontrar um meio termo rapidamente", "alias": "Roger"}
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Qual é a sua visão sobre tecnologia e inovação?",
+      "options": [
+        {"id": 3, "name": "Importantes, mas prefiro o contato humano", "alias": "Roger"},
+        {"id": 1, "name": "Ferramentas para expressão artística e criatividade", "alias": "Freddie"},
+        {"id": 4, "name": "Interessantes, especialmente para soluções práticas", "alias": "John"},
+        {"id": 2, "name": "Essenciais para o progresso e exploração científica", "alias": "Brian"}
+      ]
+    }
+  ],
+  "results": {
+    "Freddie": "Você se identifica mais com Freddie Mercury: criativo, performático e apaixonado pela arte em suas diversas formas.",
+    "Brian": "Você se identifica mais com Brian May: intelectual, curioso e com um profundo apreço pela ciência e música.",
+    "Roger": "Você se identifica mais com Roger Taylor: enérgico, extrovertido e com uma paixão por viver a vida ao máximo.",
+    "John": "Você se identifica mais com John Deacon: tranquilo, reflexivo e com um apreço pelas coisas simples da vida."
+  }
+}
